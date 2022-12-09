@@ -1,0 +1,11 @@
+.price-padding {
+	max-width: 1990px;
+	margin: 0 auto;
+	padding-top: 50px;
+	.container {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 25px;
+	}
+}

@@ -1,0 +1,21 @@
+.blog-padding {
+	margin-bottom: 10px;
+	max-width: 1990px;
+	margin: 0 auto;
+	.container {
+		padding: 40px 0px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 25px;
+		@media screen and (max-width: '1060px') {
+			gap: 20px;
+		}
+		@media screen and (max-width: '1005px') {
+			padding: 70px 0px;
+		}
+		@media screen and (max-width: '450px') {
+			padding: 0px;
+		}
+	}
+}

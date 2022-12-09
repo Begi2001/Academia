@@ -1,0 +1,14 @@
+.team-padding {
+	padding: 70px 0px;
+	max-width: 1950px;
+	margin: 0 auto;
+	.container {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 40px;
+		justify-content: center;
+		@media screen and (max-width: '755px') {
+			gap: 20px;
+		}
+	}
+}
