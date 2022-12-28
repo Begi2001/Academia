@@ -15,12 +15,12 @@
 				display: flex;
 				flex-direction: column;
 				gap: 20px;
-				@media screen and (max-width: '530px') {
+				@media screen and (max-width: 530px) {
 					text-align: center;
 				}
 				h1 {
 					font-size: 30px;
-					@media screen and (max-width: '710px') {
+					@media screen and (max-width: 710px) {
 						font-size: 22px;
 					}
 				}
@@ -38,13 +38,13 @@
 					padding: 10px 15px;
 					border: none;
 					outline: none;
-					@media screen and (max-width: '710px') {
+					@media screen and (max-width: 710px) {
 						width: 495px;
 					}
-					@media screen and (max-width: '530px') {
+					@media screen and (max-width: 530px) {
 						width: 400px;
 					}
-					@media screen and (max-width: '435px') {
+					@media screen and (max-width: 435px) {
 						width: 340px;
 					}
 				}
@@ -68,7 +68,7 @@
 			.heart-icon {
 				color: #1eb2a6;
 			}
-			@media screen and (max-width: '710px') {
+			@media screen and (max-width: 710px) {
 				font-size: 14px;
 			}
 		}

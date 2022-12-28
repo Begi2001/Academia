@@ -34,7 +34,7 @@ const Contact = () => {
 			<Back title={'Contact Us'} />
 			<section className='contact-padding'>
 				<div className='left-row'>
-					<iframe className='left-map' src={dataMap}></iframe>
+					<iframe title='myFrame' className='left-map' src={dataMap}/>
 					<div className='right-row'>
 						<div className='about'>
 							<h1>Contact us</h1>

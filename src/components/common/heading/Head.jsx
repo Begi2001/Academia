@@ -1,5 +1,4 @@
 import React from 'react'
-
 import './head_header.scss'
 
 import { UilFacebookF } from '@iconscout/react-unicons'
@@ -25,10 +24,12 @@ export const links = [
 		icon: <UilYoutube />
 	}
 ]
+
 const Head = () => {
 	return (
 		<>
 			<section className='head'>
+
 				<div className='container'>
 					<div className='logo'>
 						<h1 className='title_academia'>ACADEMIA</h1>

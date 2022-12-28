@@ -3,7 +3,6 @@ import Title from '../../common/Title/Title'
 import './test.scss'
 import { FaQuoteLeft } from 'react-icons/fa'
 import { testimonal } from '../../../Data/dummyData'
-import { ResetTv } from '@mui/icons-material'
 const Test = () => {
 	return (
 		<>

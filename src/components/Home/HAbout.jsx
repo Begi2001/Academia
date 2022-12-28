@@ -19,7 +19,7 @@ const HAbout = () => {
 									<div className='content'>
 										<div className='circle'>
 											<div className='bg-img'>
-												<img src={res.img} />
+												<img src={res.img}  alt=''/>
 											</div>
 											<h1>{res.coursesName}</h1>
 										</div>
@@ -48,6 +48,7 @@ const HAbout = () => {
 																		src={
 																			details.dimg
 																		}
+																		alt=''
 																	/>
 																</div>
 																<div className='name'>

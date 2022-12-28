@@ -6,7 +6,6 @@ import Gradution from './DataImg/graduation.png'
 import Athlete from './DataImg/athlete2.png'
 import Calendar from './DataImg/calendar.png'
 import Idea from './DataImg/idea.png'
-
 import C1 from './DataImg/courses/c1.png'
 import C2 from './DataImg/courses/c2.png'
 import C3 from './DataImg/courses/c3.png'

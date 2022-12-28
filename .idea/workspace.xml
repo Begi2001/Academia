@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de6384eb-8986-4111-96a4-be3af7710ec0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Data/dummyData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/dummyData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/hblog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/hblog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/blog/blog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog/blog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/blog/blogCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog/blogCard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/footer/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/footer/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/heading/Head.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/heading/Head.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pricing/faq.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pricing/faq.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pricing/priceCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pricing/priceCard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/team/team.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/team/team.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/team/teamCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/team/teamCard.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2Ir93qKhDHj5ZZw09lZwIfvCdJ9" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de6384eb-8986-4111-96a4-be3af7710ec0" name="Changes" comment="" />
+      <created>1670928639180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670928639180</updated>
+      <workItem from="1670928640506" duration="48000" />
+      <workItem from="1670928745748" duration="8238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

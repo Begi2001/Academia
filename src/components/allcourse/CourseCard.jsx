@@ -10,7 +10,7 @@ const CourseCard = () => {
 						<div className='content'>
 							<div className='circle'>
 								<div className='bg-img'>
-									<img src={res.img} />
+									<img src={res.img} alt='' />
 								</div>
 								<h1>{res.coursesName}</h1>
 							</div>
@@ -30,7 +30,10 @@ const CourseCard = () => {
 										<>
 											<div className='box'>
 												<div className='d-img'>
-													<img src={details.dimg} />
+													<img
+														src={details.dimg}
+														alt=''
+													/>
 												</div>
 												<div className='name'>
 													<h4>{details.name}</h4>

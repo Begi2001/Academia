@@ -17,7 +17,7 @@
 		h1 {
 			font-size: 45px;
 			color: #000;
-			@media screen and (max-width: '739px') {
+			@media screen and (max-width: 739px) {
 				font-size: 30px;
 			}
 		}
@@ -30,7 +30,7 @@
 			gap: 15px;
 			max-width: 75%;
 			margin: auto;
-			@media screen and (max-width: '660px') {
+			@media screen and (max-width: 660px) {
 				margin: auto;
 				max-width: 100%;
 				padding: 0 10px;
@@ -49,16 +49,16 @@
 				color: #1eb2a6;
 				font-weight: 500;
 				transition: 0.5s;
-				@media screen and (max-width: '660px') {
+				@media screen and (max-width: 660px) {
 					// border: 1px solid red;
 					padding: 17px 10px;
 					width: 100%;
 				}
 				h2 {
-					@media screen and (max-width: '660px') {
+					@media screen and (max-width: 660px) {
 						font-size: 20px;
 					}
-					@media screen and (max-width: '440px') {
+					@media screen and (max-width: 440px) {
 						font-size: 17px;
 					}
 				}
@@ -75,7 +75,7 @@
 					position: absolute;
 					top: 17px;
 					right: 20px;
-					@media screen and (max-width: '660px') {
+					@media screen and (max-width: 660px) {
 						right: 1px;
 					}
 				}
